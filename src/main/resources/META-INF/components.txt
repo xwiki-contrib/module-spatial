@@ -1,0 +1,4 @@
+com.xpn.xwiki.objects.meta.GeometryMetaClass
+org.xwiki.contrib.spatial.internal.solr.GeometryObjectPropertyFieldContributor
+org.xwiki.contrib.spatial.internal.SpatialScriptService
+org.xwiki.contrib.spatial.internal.search.solr.SolrSpatialSearch
